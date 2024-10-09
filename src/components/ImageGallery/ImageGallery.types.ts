@@ -1,4 +1,4 @@
-import { Image, IPicture } from "../components/App/App.types";
+import { Image, IPicture } from "../App/App.types";
 
 export interface ImageGalleryProps {
   images: IPicture[];
