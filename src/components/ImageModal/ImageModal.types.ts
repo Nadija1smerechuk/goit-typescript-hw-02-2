@@ -1,4 +1,4 @@
-import { Image } from "../components/App/App.types";
+import { Image } from "../App/App.types";
 
 export interface IModalProps {
   isOpen: boolean;
